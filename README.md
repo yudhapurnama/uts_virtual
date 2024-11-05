@@ -6,7 +6,7 @@
 
 ### Pada praktikum ini, kita akan membuat Project baru dengan nama LatihanCRUD, dengan memakai Database pv_biodata dan jFrame seperti jFrame Biodata dengan beberapa perubahan desain :
 
-![img](img/yp.jpg)
+![yp](https://github.com/user-attachments/assets/90a44948-a262-4c29-aa65-95431454ca4e)
 ![img](img/2.png)
 
 ### Buatlah Project baru dengan nama LatihanCRUD.
