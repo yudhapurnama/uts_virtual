@@ -323,7 +323,8 @@ private void tabel_biodataMouseClicked(java.awt.event.MouseEvent evt) {
 
 ### Jalankan aplikasinya
 
-![img](img/yp.jpg)
+![yp](https://github.com/user-attachments/assets/e4a550e8-b010-46ea-9c2c-cbe75737e185)
+
 
 # Laporan
 
